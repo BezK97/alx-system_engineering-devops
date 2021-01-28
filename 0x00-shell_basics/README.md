@@ -6,3 +6,4 @@
    ### 5-listfilesdigitonly	    display current directory content includding hidden and user and gorup id in long format
    ### 6-firstdirectory		    create directory in tmp directory
    ### 7-movethatfile		    move file betty
+   ### 8-firstdelete		    delete file betty
