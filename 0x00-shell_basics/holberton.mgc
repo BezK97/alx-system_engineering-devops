@@ -1,2 +1,2 @@
 #!/bin/bash
-file --mime-type -m holberton.mgc *
+find -iname HOLBERTON -type f
