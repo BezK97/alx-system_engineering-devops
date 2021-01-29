@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -r "holberton" /
+file -C -0 -f HOLBERTON holberton.mgc
