@@ -1,2 +1,1 @@
-#!/bin/bash
-file -i -C HOLBERTON holberton.mgc
+0 string HOLBERTON
